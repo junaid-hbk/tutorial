@@ -1,6 +1,10 @@
 1) Initializing Repo
 2) Changes Made
+<<<<<<< HEAD
 3) Feature branch made changes
 kajsflkdnvjksdnvsdnfksdnfksdhfsdjkdsbvjkbcjkvbd
 aaaaaaaaa
 bbb
+=======
+3) Feature branch made changes
+>>>>>>> f2
